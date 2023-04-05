@@ -3,6 +3,7 @@ class Rectangle:
         pass
 
     def draw():
+        """It depends on some GUI library"""
         pass
 
     def area(self):
